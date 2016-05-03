@@ -1,0 +1,21 @@
+cd Desktop
+ls
+pwd
+mkdir testing (testing is the filename that I created)
+ls
+cd testing
+
+-----
+
+1. git add style.css (one) or .// (if more than one file). Adding it to the staging env.
+git status
+2. git commit -m "Adding a section" //Adding a message (or "Styled a Section")
+git status
+3. git push origin master // Pushing up changes to GH
+git status
+
+(1-Add 2-Commit 3-Push)
+
+-----
+
+git status to check the status of our files
